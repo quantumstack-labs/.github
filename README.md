@@ -1,3 +1,12 @@
+<p align="changes">
+  <img src="assets/qunatumstacks-banner.png" alt="Quantumstacks Lab Banner" width="100%"  />
+</p>
+
+<h1 align="center">Quantumstacks Lab</h1>
+
+<p aliign="center">
+  <em>From Intelligent Systems to Real Products</em>
+</p>
 # Quantumstacks Lab
 
 **Quantumstacks Lab** is an open-source **product and applied AI laboratory** focused on designing, building, and incubating real-world software products at the intersection of **Artificial Intelligence** and **Full-Stack Engineering**.
